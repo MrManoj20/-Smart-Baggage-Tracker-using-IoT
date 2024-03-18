@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," Wifi Module (ESP8266)"
+"R1, R5",2,"1 kΩ Resistor"
+"R2",1,"2.2 kΩ Resistor"
+"U3",1," LCD 16 x 2"
